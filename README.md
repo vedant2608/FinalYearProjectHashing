@@ -1,2 +1,3 @@
-# FinalYearProjectHashing
-The praposed hashing technique to strore passwords for final year project
+# Mini-Applications
+Mini applications for certain uses
+1=> MongoDB service application to stop or start the mongodb in windows
